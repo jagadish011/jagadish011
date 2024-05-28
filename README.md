@@ -8,7 +8,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jagadish011](https://github.com/Jagadish03)
+- 👨‍💻 All of my projects are available at [https://github.com/Jagadish011](https://github.com/Jagadish011)
 
 - 📫 How to reach me **munavallijagadish@gmail.com**
 
