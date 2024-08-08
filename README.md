@@ -4,14 +4,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadish011&label=Profile%20views&color=0e75b6&style=flat" alt="jagadish011" /> </p>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*gg_xvP24wGGSUqr0eLVTOA.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadish03&label=Profile%20views&color=0e75b6&style=flat" alt="jagadish03" /> </p>
+
+
+
 - 👨‍💻 All of my projects are available at [https://github.com/Jagadish011](https://github.com/Jagadish011)
 
 - 📫 How to reach me **munavallijagadish@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1flNO_Y8thtPL6W1su-eX2ABbidtPLtYA/view](https://drive.google.com/file/d/1flNO_Y8thtPL6W1su-eX2ABbidtPLtYA/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1flNO_Y8thtPL6W1su-eX2ABbidtPLtYA/view?usp=drive_link](https://drive.google.com/file/d/1flNO_Y8thtPL6W1su-eX2ABbidtPLtYA/view?usp=drive_link)
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagadish011" alt="jagadish011" /></a> </p><br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/@jagadish01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@jagadish01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jagadish s munavalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadish s munavalli" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jagadishmunavalli35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jagadishmunavalli35" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
