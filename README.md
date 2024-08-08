@@ -1,16 +1,17 @@
 [![MasterHead](https://holopin.me/jagadish03)](https://holopin.io/@jagadish03)
 <h1 align="center">Hi 👋, I'm Jagadish S Munavalli</h1>
 <h2 align="center">A passionate MERN developer, Engineering Graduate from India</h2>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadish011&label=Profile%20views&color=0e75b6&style=flat" alt="jagadish011" /> </p>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*gg_xvP24wGGSUqr0eLVTOA.gif">
+
 - 👨‍💻 All of my projects are available at [https://github.com/Jagadish011](https://github.com/Jagadish011)
 
 - 📫 How to reach me **munavallijagadish@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1flNO_Y8thtPL6W1su-eX2ABbidtPLtYA/view](https://drive.google.com/file/d/1flNO_Y8thtPL6W1su-eX2ABbidtPLtYA/view)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadish011&label=Profile%20views&color=0e75b6&style=flat" alt="jagadish011" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagadish011" alt="jagadish011" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagadish011" alt="jagadish011" /></a> </p><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
