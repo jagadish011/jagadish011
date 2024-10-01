@@ -1,6 +1,6 @@
 [![MasterHead](https://holopin.me/jagadish03)](https://holopin.io/@jagadish03)
 <h1 align="center">Hi 👋, I'm Jagadish S Munavalli</h1>
-<h2 align="center">A passionate MERN developer, Engineering Graduate from India</h2>
+<h1 align="center">A passionate MERN developer, Engineering Graduate from India</h1>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*gg_xvP24wGGSUqr0eLVTOA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadish011&label=Profile%20views&color=0e75b6&style=flat" alt="jagadish011" /> </p>
